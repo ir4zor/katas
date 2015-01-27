@@ -12,6 +12,7 @@ public class BeverageDispenserTest {
 	@Before
 	public void init() {
 		// test for 2nd commit
+		// test for 3rd commit
 		bd = new BeverageDispenser();
 	}
 	
